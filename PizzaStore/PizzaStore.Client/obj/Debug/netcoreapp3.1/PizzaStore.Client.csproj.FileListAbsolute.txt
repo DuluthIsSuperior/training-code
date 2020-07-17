@@ -1,0 +1,16 @@
+/home/kyle/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/bin/Debug/netcoreapp3.1/PizzaStore.Client
+/home/kyle/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/bin/Debug/netcoreapp3.1/PizzaStore.Client.deps.json
+/home/kyle/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/bin/Debug/netcoreapp3.1/PizzaStore.Client.runtimeconfig.json
+/home/kyle/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/bin/Debug/netcoreapp3.1/PizzaStore.Client.runtimeconfig.dev.json
+/home/kyle/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/bin/Debug/netcoreapp3.1/PizzaStore.Client.dll
+/home/kyle/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/bin/Debug/netcoreapp3.1/PizzaStore.Client.pdb
+/home/kyle/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/obj/Debug/netcoreapp3.1/PizzaStore.Client.csprojAssemblyReference.cache
+/home/kyle/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/obj/Debug/netcoreapp3.1/PizzaStore.Client.AssemblyInfoInputs.cache
+/home/kyle/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/obj/Debug/netcoreapp3.1/PizzaStore.Client.AssemblyInfo.cs
+/home/kyle/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/obj/Debug/netcoreapp3.1/PizzaStore.Client.csproj.CoreCompileInputs.cache
+/home/kyle/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/obj/Debug/netcoreapp3.1/PizzaStore.Client.dll
+/home/kyle/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/obj/Debug/netcoreapp3.1/PizzaStore.Client.pdb
+/home/kyle/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/obj/Debug/netcoreapp3.1/PizzaStore.Client.genruntimeconfig.cache
+/home/kyle/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/bin/Debug/netcoreapp3.1/PizzaStore.Domain.dll
+/home/kyle/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/bin/Debug/netcoreapp3.1/PizzaStore.Domain.pdb
+/home/kyle/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/obj/Debug/netcoreapp3.1/PizzaStore.Client.csproj.CopyComplete

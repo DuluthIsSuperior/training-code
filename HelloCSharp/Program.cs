@@ -1,4 +1,5 @@
-﻿using System;
+﻿// using c = System.Console;
+using System;
 
 namespace HelloCSharp
 {
@@ -6,7 +7,14 @@ namespace HelloCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Enter first name: ");
+            var first = Console.ReadLine();
+            Console.Write("Enter last name: ");
+            string last = Console.ReadLine();
+
+            Console.WriteLine(first + " " + lastName);
+            Console.WriteLine(first);
+            Console.WriteLine(last);
         }
     }
 }
