@@ -1,10 +1,13 @@
 using System.Collections.Generic;
 
-namespace PizzaStore.Domain.Models {
-  public class User {
-    public List<Order> Orders { get; set; }
+namespace PizzaStore.Domain.Models
+{
+  public class User
+  {
+    public List<Order> Orders { get; }
 
-    public User() {
+    public User()
+    {
       Orders = new List<Order>();
     }
   }
