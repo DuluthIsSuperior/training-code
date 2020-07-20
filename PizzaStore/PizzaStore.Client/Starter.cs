@@ -2,34 +2,24 @@ using System;
 using System.Collections.Generic;
 using PizzaStore.Domain.Models;
 
-namespace PizzaStore.Client
-{
-  public class Starter
-  {
-    public Order CreateOrder(User user, Store store)
-    {
-      try
-      {
-        var order = new Order();
+namespace PizzaStore.Client {
+  public class Starter {
+    public Order CreateOrder(User user, Store store) {
+      try {
+        Order order = new Order();
 
         user.Orders.Add(order);
         store.Orders.Add(order);
 
         return order;
-      }
-      catch
-      {
-        //return null;
+      } catch {
         throw new System.Exception("we messed up");
-      }
-      finally
-      {
+      } finally {
         GC.Collect();
       }
     }
 
-    internal static void PrintMenu()
-    {
+    internal static void PrintMenu() {
       System.Console.WriteLine("Select 1 for Cheese Pizza");
       System.Console.WriteLine("Select 2 for Pepperoni Pizza");
       System.Console.WriteLine("Select 3 for Pineapple Pizza");
